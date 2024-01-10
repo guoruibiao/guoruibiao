@@ -2,7 +2,7 @@
 
 ## I'm a software engineer.
 - 🧠 I'm currently learning about Go and Python
-- 🥅 My goal is to create an useful tool to make my life better
+- 🥅 My goal is to create useful toolsets and make my life better
 - ⚡ Fun Fact: I love to play Ukulele (but not very good at it :l)
 
 ### Connect with me:
