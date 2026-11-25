@@ -10,5 +10,7 @@ I’m a hands-on developer passionate about AI, software engineering, and buildi
 <br />
 
 ---
+![HOMETOWN](IMG_6517.HEIC)
+
 
 ![Guoruibiao's github stats](https://github-readme-stats.vercel.app/api?username=guoruibiao)
