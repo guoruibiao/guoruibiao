@@ -1,9 +1,6 @@
-### Hi there👋 ,  I'm Ruibiao Guo.
+### Hi there👋 
 
-## I'm a software engineer.
-- 🧠 I'm currently learning about Go and Python
-- 🥅 My goal is to create useful toolsets and make my life better
-- ⚡ Fun Fact: I love to play Ukulele (but not very good at it :l)
+I’m a hands-on developer passionate about AI, software engineering, and building practical tools that turn ideas into useful experiences.
 
 ### Connect with me:
 [<img align="left" alt="CSDN" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blog.csdn.net/marksinoberg)
